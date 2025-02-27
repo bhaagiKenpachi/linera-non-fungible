@@ -1,0 +1,17 @@
+{
+  "name": "non-fungible-client-tests",
+  "version": "1.0.0",
+  "description": "WebSocket tests for non-fungible client",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "ws": "^8.16.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "testTimeout": 10000
+  }
+} 
