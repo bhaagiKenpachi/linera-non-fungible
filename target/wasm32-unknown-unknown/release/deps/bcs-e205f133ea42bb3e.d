@@ -1,0 +1,11 @@
+/Users/luffybhaagi/RustroverProjects/linera-non-fungible/target/wasm32-unknown-unknown/release/deps/libbcs-e205f133ea42bb3e.rmeta: /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/lib.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/de.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/error.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/ser.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/test_helpers.rs
+
+/Users/luffybhaagi/RustroverProjects/linera-non-fungible/target/wasm32-unknown-unknown/release/deps/libbcs-e205f133ea42bb3e.rlib: /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/lib.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/de.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/error.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/ser.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/test_helpers.rs
+
+/Users/luffybhaagi/RustroverProjects/linera-non-fungible/target/wasm32-unknown-unknown/release/deps/bcs-e205f133ea42bb3e.d: /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/lib.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/de.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/error.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/ser.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/test_helpers.rs
+
+/Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/lib.rs:
+/Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/de.rs:
+/Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/error.rs:
+/Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/ser.rs:
+/Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bcs-0.1.6/src/test_helpers.rs:

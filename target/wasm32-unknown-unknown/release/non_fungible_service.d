@@ -1,0 +1,1 @@
+/Users/luffybhaagi/RustroverProjects/linera-non-fungible/target/wasm32-unknown-unknown/release/non_fungible_service.wasm: /Users/luffybhaagi/RustroverProjects/linera-non-fungible/src/lib.rs /Users/luffybhaagi/RustroverProjects/linera-non-fungible/src/service.rs /Users/luffybhaagi/RustroverProjects/linera-non-fungible/src/state.rs

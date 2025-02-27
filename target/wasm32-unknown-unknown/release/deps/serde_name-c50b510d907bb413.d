@@ -1,0 +1,10 @@
+/Users/luffybhaagi/RustroverProjects/linera-non-fungible/target/wasm32-unknown-unknown/release/deps/libserde_name-c50b510d907bb413.rmeta: /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-name-0.2.1/src/lib.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-name-0.2.1/src/de_adapter.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-name-0.2.1/src/ser_adapter.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-name-0.2.1/src/trace.rs
+
+/Users/luffybhaagi/RustroverProjects/linera-non-fungible/target/wasm32-unknown-unknown/release/deps/libserde_name-c50b510d907bb413.rlib: /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-name-0.2.1/src/lib.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-name-0.2.1/src/de_adapter.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-name-0.2.1/src/ser_adapter.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-name-0.2.1/src/trace.rs
+
+/Users/luffybhaagi/RustroverProjects/linera-non-fungible/target/wasm32-unknown-unknown/release/deps/serde_name-c50b510d907bb413.d: /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-name-0.2.1/src/lib.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-name-0.2.1/src/de_adapter.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-name-0.2.1/src/ser_adapter.rs /Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-name-0.2.1/src/trace.rs
+
+/Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-name-0.2.1/src/lib.rs:
+/Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-name-0.2.1/src/de_adapter.rs:
+/Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-name-0.2.1/src/ser_adapter.rs:
+/Users/luffybhaagi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-name-0.2.1/src/trace.rs:
