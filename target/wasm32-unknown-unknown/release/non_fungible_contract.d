@@ -1,1 +1,0 @@
-/Users/luffybhaagi/RustroverProjects/linera-non-fungible/target/wasm32-unknown-unknown/release/non_fungible_contract.wasm: /Users/luffybhaagi/RustroverProjects/linera-non-fungible/src/contract.rs /Users/luffybhaagi/RustroverProjects/linera-non-fungible/src/lib.rs /Users/luffybhaagi/RustroverProjects/linera-non-fungible/src/state.rs
